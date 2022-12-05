@@ -3,7 +3,7 @@ package project_mycli_app;
 public class Constant {
 	/**
 	 * constant variables
-	 */
+	 */			
 	
 	//master-binary-dir
 	static final String MASTER_DIR = "master";
